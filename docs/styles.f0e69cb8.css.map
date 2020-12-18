@@ -1,0 +1,1 @@
+{"version":3,"sources":["index.css"],"names":[],"mappings":"AAAA,KACE,qBAAwB,CACxB,cAAe,CACf,eACF","file":"styles.f0e69cb8.css","sourceRoot":"..\\src","sourcesContent":["html {\r\n  background-color: yellow;\r\n  font-size: 16px;\r\n  font-weight: bold;\r\n}\r\n"]}
