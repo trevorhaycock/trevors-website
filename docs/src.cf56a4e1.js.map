@@ -1,0 +1,1 @@
+{"version":3,"sources":["index.js"],"names":["window","changeBkg","console","log"],"mappings":";AAAAA,OAAOC,UAAY,WACjBC,QAAQC,IAAI","file":"src.cf56a4e1.js","sourceRoot":"..\\src","sourcesContent":["window.changeBkg = () => {\r\n  console.log(\"change\");\r\n}\r\n"]}
